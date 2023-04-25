@@ -1,4 +1,5 @@
 # Arduino-Garage-Gate-Opener
 
 dc motor reversing relay schema
-![image](https://user-images.githubusercontent.com/41493173/234400846-b93ad476-667f-4055-a8b4-cfc7495aa74d.png)
+
+![reversible-dc-motor-using-2-relays-2155875734](https://user-images.githubusercontent.com/41493173/234401436-01b8a458-987f-4960-84f0-00bf17baa309.png)
